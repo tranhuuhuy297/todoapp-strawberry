@@ -1,4 +1,5 @@
 # todoapp-strawberry
+- Run with FastAPI
 ```
-strawberry server run
+uvicorn run:app --reload
 ```
